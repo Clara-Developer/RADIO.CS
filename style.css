@@ -1,0 +1,18 @@
+body{
+    margin: 0px 120px 0px 120px;
+}
+
+hi{
+    color: brown;
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+}
